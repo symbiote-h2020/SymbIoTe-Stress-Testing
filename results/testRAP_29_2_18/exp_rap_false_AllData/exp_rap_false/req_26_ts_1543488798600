@@ -1,0 +1,33 @@
+Runner 25_0 2120
+Runner 25_1 1724
+Runner 25_2 1901
+Runner 25_3 2259
+Runner 25_4 4240
+Runner 25_5 2388
+Runner 25_6 4193
+Runner 25_7 2179
+Runner 25_8 4125
+Runner 25_9 2345
+Runner 25_10 2437
+Runner 25_11 3800
+Runner 25_12 3788
+Runner 25_13 2391
+Runner 25_14 4163
+Runner 25_15 3802
+Runner 25_16 4243
+Runner 25_17 3951
+Runner 25_18 3671
+Runner 25_19 3560
+Runner 25_20 2969
+Runner 25_21 3953
+Runner 25_22 4036
+Runner 25_23 4245
+Runner 25_24 4233
+Runner 25_25 4162
+Timestamp 1543488798601
+RequestsNumber 26
+Failures_perc 0.0
+All_ms 4254
+min_ms 1724
+max_ms 4245
+avg_ms 3341.4615384615386

@@ -1,0 +1,24 @@
+Runner 16_0 2625
+Runner 16_1 1835
+Runner 16_2 1750
+Runner 16_3 2614
+Runner 16_4 1703
+Runner 16_5 1785
+Runner 16_6 2617
+Runner 16_7 2609
+Runner 16_8 2039
+Runner 16_9 2618
+Runner 16_10 2318
+Runner 16_11 2369
+Runner 16_12 1770
+Runner 16_13 2031
+Runner 16_14 2097
+Runner 16_15 2507
+Runner 16_16 2613
+Timestamp 1543488194822
+RequestsNumber 17
+Failures_perc 0.0
+All_ms 2626
+min_ms 1703
+max_ms 2625
+avg_ms 2229.4117647058824

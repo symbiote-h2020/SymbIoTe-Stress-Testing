@@ -1,0 +1,27 @@
+Runner 1_0 3375
+Runner 1_1 3372
+Runner 1_2 3304
+Runner 1_3 3277
+Runner 1_4 3305
+Runner 1_5 4289
+Runner 1_6 4510
+Runner 1_7 4824
+Runner 1_8 4882
+Runner 1_9 5167
+Runner 1_10 5151
+Runner 1_11 4377
+Runner 1_12 4298
+Runner 1_13 5138
+Runner 1_14 4521
+Runner 1_15 4644
+Runner 1_16 4432
+Runner 1_17 4811
+Runner 1_18 5184
+Runner 1_19 4963
+Timestamp 1543416669362
+RequestsNumber 20
+Failures_perc 0.0
+All_ms 5191
+min_ms 3277
+max_ms 5184
+avg_ms 4391.2

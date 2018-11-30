@@ -1,0 +1,19 @@
+Runner 11_0 2487
+Runner 11_1 1758
+Runner 11_2 2533
+Runner 11_3 2503
+Runner 11_4 2501
+Runner 11_5 3238
+Runner 11_6 3115
+Runner 11_7 3126
+Runner 11_8 3234
+Runner 11_9 3218
+Runner 11_10 3234
+Runner 11_11 3101
+Timestamp 1543487839048
+RequestsNumber 12
+Failures_perc 0.0
+All_ms 3241
+min_ms 1758
+max_ms 3238
+avg_ms 2837.3333333333335

@@ -1,0 +1,29 @@
+Runner 21_0 2048
+Runner 21_1 2173
+Runner 21_2 2066
+Runner 21_3 2042
+Runner 21_4 2189
+Runner 21_5 3064
+Runner 21_6 2040
+Runner 21_7 3241
+Runner 21_8 2206
+Runner 21_9 3296
+Runner 21_10 3136
+Runner 21_11 3042
+Runner 21_12 2199
+Runner 21_13 2197
+Runner 21_14 3293
+Runner 21_15 2619
+Runner 21_16 2205
+Runner 21_17 3291
+Runner 21_18 3297
+Runner 21_19 3165
+Runner 21_20 2877
+Runner 21_21 3062
+Timestamp 1543488531723
+RequestsNumber 22
+Failures_perc 0.0
+All_ms 3305
+min_ms 2040
+max_ms 3297
+avg_ms 2670.3636363636365

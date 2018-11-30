@@ -1,0 +1,20 @@
+Runner 12_0 2172
+Runner 12_1 2114
+Runner 12_2 1251
+Runner 12_3 1270
+Runner 12_4 2017
+Runner 12_5 1813
+Runner 12_6 1982
+Runner 12_7 2177
+Runner 12_8 2172
+Runner 12_9 2173
+Runner 12_10 2103
+Runner 12_11 2119
+Runner 12_12 2177
+Timestamp 1543487977259
+RequestsNumber 13
+Failures_perc 0.0
+All_ms 2180
+min_ms 1251
+max_ms 2177
+avg_ms 1964.6153846153845

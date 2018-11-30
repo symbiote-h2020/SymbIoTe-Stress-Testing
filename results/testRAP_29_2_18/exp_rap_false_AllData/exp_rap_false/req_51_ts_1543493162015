@@ -1,0 +1,58 @@
+Runner 50_0 5020
+Runner 50_1 4273
+Runner 50_2 7768
+Runner 50_3 5031
+Runner 50_4 8025
+Runner 50_5 5245
+Runner 50_6 5062
+Runner 50_7 7536
+Runner 50_8 7782
+Runner 50_9 9075
+Runner 50_10 8769
+Runner 50_11 9200
+Runner 50_12 9198
+Runner 50_13 8567
+Runner 50_14 5378
+Runner 50_15 9182
+Runner 50_16 8771
+Runner 50_17 7921
+Runner 50_18 8944
+Runner 50_19 7936
+Runner 50_20 8489
+Runner 50_21 8346
+Runner 50_22 5365
+Runner 50_23 8896
+Runner 50_24 4940
+Runner 50_25 4407
+Runner 50_26 9177
+Runner 50_27 8370
+Runner 50_28 4262
+Runner 50_29 7053
+Runner 50_30 9066
+Runner 50_31 8480
+Runner 50_32 7419
+Runner 50_33 8950
+Runner 50_34 7776
+Runner 50_35 8336
+Runner 50_36 8274
+Runner 50_37 7870
+Runner 50_38 8354
+Runner 50_39 8887
+Runner 50_40 8951
+Runner 50_41 8735
+Runner 50_42 8473
+Runner 50_43 7120
+Runner 50_44 7073
+Runner 50_45 9085
+Runner 50_46 4969
+Runner 50_47 8698
+Runner 50_48 7386
+Runner 50_49 8838
+Runner 50_50 4402
+Timestamp 1543493162016
+RequestsNumber 51
+Failures_perc 0.0
+All_ms 9203
+min_ms 4262
+max_ms 9200
+avg_ms 7551.568627450981

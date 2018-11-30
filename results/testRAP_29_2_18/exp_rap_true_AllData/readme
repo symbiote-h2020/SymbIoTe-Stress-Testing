@@ -1,0 +1,9 @@
+1 minute delay between runs
+
+the number of concurrent requests is increased by 10 
+
+and repeated 10 times
+
+authentication is true
+
+registered resources are 10

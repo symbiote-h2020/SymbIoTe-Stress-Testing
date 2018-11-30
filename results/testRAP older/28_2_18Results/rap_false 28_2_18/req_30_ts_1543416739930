@@ -1,0 +1,37 @@
+Runner 2_0 4700
+Runner 2_1 4321
+Runner 2_2 4042
+Runner 2_3 4758
+Runner 2_4 4041
+Runner 2_5 7001
+Runner 2_6 6730
+Runner 2_7 7041
+Runner 2_8 6153
+Runner 2_9 7297
+Runner 2_10 4040
+Runner 2_11 5464
+Runner 2_12 7083
+Runner 2_13 4842
+Runner 2_14 4321
+Runner 2_15 7291
+Runner 2_16 6411
+Runner 2_17 6412
+Runner 2_18 7272
+Runner 2_19 7229
+Runner 2_20 5978
+Runner 2_21 6473
+Runner 2_22 5899
+Runner 2_23 4765
+Runner 2_24 7290
+Runner 2_25 6492
+Runner 2_26 6725
+Runner 2_27 7009
+Runner 2_28 7289
+Runner 2_29 6499
+Timestamp 1543416739930
+RequestsNumber 30
+Failures_perc 0.0
+All_ms 7301
+min_ms 4040
+max_ms 7297
+avg_ms 6028.933333333333

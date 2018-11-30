@@ -1,0 +1,16 @@
+Runner 8_0 1682
+Runner 8_1 1774
+Runner 8_2 1247
+Runner 8_3 1486
+Runner 8_4 1501
+Runner 8_5 1695
+Runner 8_6 1890
+Runner 8_7 1693
+Runner 8_8 1901
+Timestamp 1543487636782
+RequestsNumber 9
+Failures_perc 0.0
+All_ms 1905
+min_ms 1247
+max_ms 1901
+avg_ms 1652.111111111111

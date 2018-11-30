@@ -1,0 +1,13 @@
+Runner 5_0 1231
+Runner 5_1 1512
+Runner 5_2 1221
+Runner 5_3 1520
+Runner 5_4 1820
+Runner 5_5 1466
+Timestamp 1543487503130
+RequestsNumber 6
+Failures_perc 0.0
+All_ms 1821
+min_ms 1221
+max_ms 1820
+avg_ms 1461.6666666666667

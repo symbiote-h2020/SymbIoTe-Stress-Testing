@@ -1,0 +1,26 @@
+Runner 18_0 3141
+Runner 18_1 3279
+Runner 18_2 3223
+Runner 18_3 3522
+Runner 18_4 3504
+Runner 18_5 3502
+Runner 18_6 4926
+Runner 18_7 4699
+Runner 18_8 4926
+Runner 18_9 3278
+Runner 18_10 4439
+Runner 18_11 3712
+Runner 18_12 4475
+Runner 18_13 4922
+Runner 18_14 4436
+Runner 18_15 4422
+Runner 18_16 4919
+Runner 18_17 4832
+Runner 18_18 4276
+Timestamp 1543488307631
+RequestsNumber 19
+Failures_perc 0.0
+All_ms 4930
+min_ms 3141
+max_ms 4926
+avg_ms 4128.0526315789475

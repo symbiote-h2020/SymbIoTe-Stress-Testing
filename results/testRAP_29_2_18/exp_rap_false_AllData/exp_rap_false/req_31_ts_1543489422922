@@ -1,0 +1,38 @@
+Runner 30_0 2420
+Runner 30_1 4420
+Runner 30_2 3294
+Runner 30_3 3413
+Runner 30_4 3528
+Runner 30_5 2338
+Runner 30_6 4656
+Runner 30_7 3521
+Runner 30_8 4816
+Runner 30_9 4790
+Runner 30_10 3306
+Runner 30_11 3323
+Runner 30_12 4394
+Runner 30_13 4952
+Runner 30_14 4942
+Runner 30_15 3513
+Runner 30_16 4837
+Runner 30_17 3529
+Runner 30_18 4509
+Runner 30_19 4949
+Runner 30_20 3421
+Runner 30_21 4506
+Runner 30_22 4950
+Runner 30_23 3661
+Runner 30_24 4949
+Runner 30_25 4422
+Runner 30_26 4700
+Runner 30_27 3542
+Runner 30_28 4238
+Runner 30_29 4241
+Runner 30_30 4917
+Timestamp 1543489422922
+RequestsNumber 31
+Failures_perc 0.0
+All_ms 4956
+min_ms 2338
+max_ms 4952
+avg_ms 4096.677419354839

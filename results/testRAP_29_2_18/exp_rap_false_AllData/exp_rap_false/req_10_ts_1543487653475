@@ -1,0 +1,17 @@
+Runner 9_0 1644
+Runner 9_1 1604
+Runner 9_2 1599
+Runner 9_3 1552
+Runner 9_4 1176
+Runner 9_5 1986
+Runner 9_6 1985
+Runner 9_7 1991
+Runner 9_8 1921
+Runner 9_9 1986
+Timestamp 1543487653476
+RequestsNumber 10
+Failures_perc 0.0
+All_ms 1994
+min_ms 1176
+max_ms 1991
+avg_ms 1744.4

@@ -1,0 +1,25 @@
+Runner 17_0 1900
+Runner 17_1 1873
+Runner 17_2 1913
+Runner 17_3 1831
+Runner 17_4 1773
+Runner 17_5 1895
+Runner 17_6 2637
+Runner 17_7 2743
+Runner 17_8 2314
+Runner 17_9 2538
+Runner 17_10 2780
+Runner 17_11 2780
+Runner 17_12 2777
+Runner 17_13 1904
+Runner 17_14 2671
+Runner 17_15 2776
+Runner 17_16 2608
+Runner 17_17 2592
+Timestamp 1543488243150
+RequestsNumber 18
+Failures_perc 0.0
+All_ms 2790
+min_ms 1773
+max_ms 2780
+avg_ms 2350.277777777778

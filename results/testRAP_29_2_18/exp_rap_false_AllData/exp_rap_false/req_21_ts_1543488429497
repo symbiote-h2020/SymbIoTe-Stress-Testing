@@ -1,0 +1,28 @@
+Runner 20_0 1865
+Runner 20_1 1624
+Runner 20_2 1671
+Runner 20_3 1843
+Runner 20_4 1883
+Runner 20_5 2842
+Runner 20_6 2625
+Runner 20_7 1865
+Runner 20_8 2851
+Runner 20_9 2183
+Runner 20_10 2264
+Runner 20_11 2496
+Runner 20_12 2741
+Runner 20_13 2280
+Runner 20_14 2799
+Runner 20_15 2657
+Runner 20_16 2845
+Runner 20_17 2535
+Runner 20_18 2845
+Runner 20_19 2747
+Runner 20_20 2334
+Timestamp 1543488429498
+RequestsNumber 21
+Failures_perc 0.0
+All_ms 2855
+min_ms 1624
+max_ms 2851
+avg_ms 2371.190476190476

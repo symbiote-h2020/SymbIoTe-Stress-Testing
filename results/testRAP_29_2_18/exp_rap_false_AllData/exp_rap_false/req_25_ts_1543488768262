@@ -1,0 +1,32 @@
+Runner 24_0 2256
+Runner 24_1 2371
+Runner 24_2 2297
+Runner 24_3 2533
+Runner 24_4 2403
+Runner 24_5 3641
+Runner 24_6 3972
+Runner 24_7 2258
+Runner 24_8 2264
+Runner 24_9 3872
+Runner 24_10 3172
+Runner 24_11 3202
+Runner 24_12 3668
+Runner 24_13 3653
+Runner 24_14 3844
+Runner 24_15 3967
+Runner 24_16 3890
+Runner 24_17 3749
+Runner 24_18 3708
+Runner 24_19 3952
+Runner 24_20 3504
+Runner 24_21 3629
+Runner 24_22 3770
+Runner 24_23 3175
+Runner 24_24 2364
+Timestamp 1543488768262
+RequestsNumber 25
+Failures_perc 0.0
+All_ms 3975
+min_ms 2256
+max_ms 3972
+avg_ms 3244.56

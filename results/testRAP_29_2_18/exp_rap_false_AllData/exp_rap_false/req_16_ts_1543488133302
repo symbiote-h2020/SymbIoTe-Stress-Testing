@@ -1,0 +1,23 @@
+Runner 15_0 1520
+Runner 15_1 2295
+Runner 15_2 1571
+Runner 15_3 1388
+Runner 15_4 1352
+Runner 15_5 1556
+Runner 15_6 2398
+Runner 15_7 2418
+Runner 15_8 2429
+Runner 15_9 2077
+Runner 15_10 2257
+Runner 15_11 2424
+Runner 15_12 2052
+Runner 15_13 2087
+Runner 15_14 2437
+Runner 15_15 2376
+Timestamp 1543488133303
+RequestsNumber 16
+Failures_perc 0.0
+All_ms 2443
+min_ms 1352
+max_ms 2437
+avg_ms 2039.8125

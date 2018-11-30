@@ -1,0 +1,17 @@
+Runner 0_0 2019
+Runner 0_1 1989
+Runner 0_2 1696
+Runner 0_3 1827
+Runner 0_4 1960
+Runner 0_5 2268
+Runner 0_6 2289
+Runner 0_7 2275
+Runner 0_8 2295
+Runner 0_9 2288
+Timestamp 1543416612333
+RequestsNumber 10
+Failures_perc 0.0
+All_ms 2299
+min_ms 1696
+max_ms 2295
+avg_ms 2090.6

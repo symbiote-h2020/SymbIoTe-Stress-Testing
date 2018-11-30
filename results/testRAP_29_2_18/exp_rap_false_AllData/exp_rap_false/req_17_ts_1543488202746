@@ -1,0 +1,24 @@
+Runner 16_0 1651
+Runner 16_1 1659
+Runner 16_2 1625
+Runner 16_3 1657
+Runner 16_4 1602
+Runner 16_5 2491
+Runner 16_6 2633
+Runner 16_7 2443
+Runner 16_8 2505
+Runner 16_9 2287
+Runner 16_10 2010
+Runner 16_11 2178
+Runner 16_12 2403
+Runner 16_13 1605
+Runner 16_14 2488
+Runner 16_15 2632
+Runner 16_16 2365
+Timestamp 1543488202747
+RequestsNumber 17
+Failures_perc 0.0
+All_ms 2641
+min_ms 1602
+max_ms 2633
+avg_ms 2131.4117647058824

@@ -1,0 +1,31 @@
+Runner 23_0 2233
+Runner 23_1 2100
+Runner 23_2 2389
+Runner 23_3 2345
+Runner 23_4 2317
+Runner 23_5 4009
+Runner 23_6 3924
+Runner 23_7 4169
+Runner 23_8 4172
+Runner 23_9 4178
+Runner 23_10 4126
+Runner 23_11 3726
+Runner 23_12 3267
+Runner 23_13 4164
+Runner 23_14 3646
+Runner 23_15 3844
+Runner 23_16 3667
+Runner 23_17 4171
+Runner 23_18 3706
+Runner 23_19 3959
+Runner 23_20 4162
+Runner 23_21 4175
+Runner 23_22 4058
+Runner 23_23 3320
+Timestamp 1543488659180
+RequestsNumber 24
+Failures_perc 0.0
+All_ms 4182
+min_ms 2100
+max_ms 4178
+avg_ms 3576.125

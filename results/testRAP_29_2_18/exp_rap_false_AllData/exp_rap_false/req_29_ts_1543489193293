@@ -1,0 +1,36 @@
+Runner 28_0 3040
+Runner 28_1 2957
+Runner 28_2 2210
+Runner 28_3 3010
+Runner 28_4 2837
+Runner 28_5 4132
+Runner 28_6 3205
+Runner 28_7 3693
+Runner 28_8 2844
+Runner 28_9 3135
+Runner 28_10 3834
+Runner 28_11 4148
+Runner 28_12 3629
+Runner 28_13 3335
+Runner 28_14 3401
+Runner 28_15 3946
+Runner 28_16 4143
+Runner 28_17 3693
+Runner 28_18 3712
+Runner 28_19 3895
+Runner 28_20 3375
+Runner 28_21 3397
+Runner 28_22 3968
+Runner 28_23 0
+Runner 28_24 3241
+Runner 28_25 4133
+Runner 28_26 4016
+Runner 28_27 3249
+Runner 28_28 3967
+Timestamp 1543489193293
+RequestsNumber 29
+Failures_perc 3.4482758620689653
+All_ms 4156
+min_ms 2210
+max_ms 4148
+avg_ms 3505.1785714285716

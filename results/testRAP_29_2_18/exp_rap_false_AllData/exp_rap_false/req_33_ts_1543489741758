@@ -1,0 +1,40 @@
+Runner 32_0 2184
+Runner 32_1 2741
+Runner 32_2 2176
+Runner 32_3 2385
+Runner 32_4 2734
+Runner 32_5 3980
+Runner 32_6 2394
+Runner 32_7 31772
+Runner 32_8 4004
+Runner 32_9 4224
+Runner 32_10 3416
+Runner 32_11 3871
+Runner 32_12 2378
+Runner 32_13 4044
+Runner 32_14 3234
+Runner 32_15 4174
+Runner 32_16 4162
+Runner 32_17 3870
+Runner 32_18 2389
+Runner 32_19 2852
+Runner 32_20 2783
+Runner 32_21 31772
+Runner 32_22 3593
+Runner 32_23 4152
+Runner 32_24 4154
+Runner 32_25 4003
+Runner 32_26 4124
+Runner 32_27 3940
+Runner 32_28 3259
+Runner 32_29 2358
+Runner 32_30 3874
+Runner 32_31 3419
+Runner 32_32 3660
+Timestamp 1543489741758
+RequestsNumber 33
+Failures_perc 0.0
+All_ms 31780
+min_ms 2176
+max_ms 31772
+avg_ms 5093.181818181818

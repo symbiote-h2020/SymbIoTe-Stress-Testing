@@ -1,0 +1,23 @@
+Runner 15_0 1299
+Runner 15_1 1272
+Runner 15_2 1289
+Runner 15_3 1404
+Runner 15_4 1924
+Runner 15_5 1988
+Runner 15_6 2002
+Runner 15_7 2108
+Runner 15_8 2052
+Runner 15_9 1893
+Runner 15_10 1259
+Runner 15_11 2140
+Runner 15_12 2141
+Runner 15_13 2144
+Runner 15_14 2019
+Runner 15_15 2083
+Timestamp 1543488131152
+RequestsNumber 16
+Failures_perc 0.0
+All_ms 2150
+min_ms 1259
+max_ms 2144
+avg_ms 1813.5625

@@ -1,0 +1,35 @@
+Runner 27_0 2700
+Runner 27_1 2192
+Runner 27_2 2357
+Runner 27_3 2709
+Runner 27_4 4057
+Runner 27_5 2336
+Runner 27_6 2925
+Runner 27_7 3796
+Runner 27_8 4566
+Runner 27_9 4264
+Runner 27_10 4425
+Runner 27_11 4688
+Runner 27_12 4687
+Runner 27_13 3095
+Runner 27_14 4468
+Runner 27_15 4647
+Runner 27_16 4686
+Runner 27_17 4525
+Runner 27_18 4030
+Runner 27_19 4479
+Runner 27_20 4505
+Runner 27_21 4258
+Runner 27_22 4670
+Runner 27_23 4599
+Runner 27_24 4077
+Runner 27_25 4122
+Runner 27_26 4639
+Runner 27_27 3941
+Timestamp 1543489113775
+RequestsNumber 28
+Failures_perc 0.0
+All_ms 4694
+min_ms 2192
+max_ms 4688
+avg_ms 3944.3928571428573

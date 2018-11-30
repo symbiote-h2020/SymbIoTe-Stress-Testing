@@ -1,0 +1,20 @@
+Runner 12_0 1280
+Runner 12_1 1267
+Runner 12_2 1267
+Runner 12_3 1271
+Runner 12_4 1130
+Runner 12_5 1721
+Runner 12_6 1560
+Runner 12_7 1843
+Runner 12_8 1843
+Runner 12_9 1820
+Runner 12_10 1843
+Runner 12_11 1817
+Runner 12_12 1839
+Timestamp 1543487946427
+RequestsNumber 13
+Failures_perc 0.0
+All_ms 1844
+min_ms 1130
+max_ms 1843
+avg_ms 1577.0

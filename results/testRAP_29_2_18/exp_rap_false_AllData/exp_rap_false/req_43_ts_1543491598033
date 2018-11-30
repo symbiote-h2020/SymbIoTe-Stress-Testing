@@ -1,0 +1,50 @@
+Runner 42_0 4001
+Runner 42_1 4936
+Runner 42_2 4038
+Runner 42_3 5191
+Runner 42_4 3926
+Runner 42_5 4993
+Runner 42_6 6426
+Runner 42_7 6061
+Runner 42_8 6170
+Runner 42_9 5125
+Runner 42_10 5203
+Runner 42_11 4364
+Runner 42_12 6763
+Runner 42_13 6782
+Runner 42_14 6865
+Runner 42_15 6620
+Runner 42_16 6505
+Runner 42_17 6862
+Runner 42_18 6797
+Runner 42_19 4353
+Runner 42_20 4993
+Runner 42_21 5867
+Runner 42_22 6502
+Runner 42_23 6610
+Runner 42_24 6862
+Runner 42_25 5122
+Runner 42_26 5178
+Runner 42_27 5011
+Runner 42_28 5743
+Runner 42_29 6464
+Runner 42_30 5009
+Runner 42_31 6720
+Runner 42_32 5939
+Runner 42_33 5118
+Runner 42_34 6190
+Runner 42_35 6854
+Runner 42_36 6408
+Runner 42_37 6190
+Runner 42_38 4839
+Runner 42_39 6444
+Runner 42_40 6681
+Runner 42_41 6226
+Runner 42_42 4848
+Timestamp 1543491598033
+RequestsNumber 43
+Failures_perc 0.0
+All_ms 6870
+min_ms 3926
+max_ms 6865
+avg_ms 5762.767441860465
