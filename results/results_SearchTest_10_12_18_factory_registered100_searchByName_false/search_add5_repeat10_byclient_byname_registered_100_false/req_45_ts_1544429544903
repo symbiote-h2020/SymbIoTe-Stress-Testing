@@ -1,0 +1,52 @@
+Runner 8_0 3048
+Runner 8_1 3016
+Runner 8_2 3473
+Runner 8_3 1957
+Runner 8_4 1974
+Runner 8_5 3292
+Runner 8_6 1945
+Runner 8_7 2312
+Runner 8_8 2429
+Runner 8_9 2642
+Runner 8_10 2015
+Runner 8_11 3026
+Runner 8_12 1907
+Runner 8_13 2732
+Runner 8_14 2323
+Runner 8_15 2450
+Runner 8_16 2169
+Runner 8_17 2222
+Runner 8_18 1761
+Runner 8_19 2320
+Runner 8_20 3108
+Runner 8_21 1812
+Runner 8_22 2712
+Runner 8_23 2125
+Runner 8_24 3488
+Runner 8_25 2720
+Runner 8_26 1936
+Runner 8_27 1764
+Runner 8_28 1637
+Runner 8_29 3516
+Runner 8_30 3171
+Runner 8_31 1731
+Runner 8_32 2328
+Runner 8_33 3005
+Runner 8_34 2264
+Runner 8_35 2977
+Runner 8_36 3147
+Runner 8_37 2841
+Runner 8_38 1769
+Runner 8_39 2641
+Runner 8_40 2828
+Runner 8_41 2287
+Runner 8_42 3578
+Runner 8_43 1614
+Runner 8_44 2345
+Timestamp 1544429544903
+RequestsNumber 45
+Failures_perc 0.0
+All_ms 4445
+min_ms 1614
+max_ms 3578
+avg_ms 2496.822222222222

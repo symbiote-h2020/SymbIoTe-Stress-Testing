@@ -1,0 +1,32 @@
+Runner 4_0 11235
+Runner 4_1 17235
+Runner 4_2 3415
+Runner 4_3 13819
+Runner 4_4 8036
+Runner 4_5 8170
+Runner 4_6 10344
+Runner 4_7 13934
+Runner 4_8 7247
+Runner 4_9 12794
+Runner 4_10 16826
+Runner 4_11 3290
+Runner 4_12 8056
+Runner 4_13 15841
+Runner 4_14 3640
+Runner 4_15 13701
+Runner 4_16 16066
+Runner 4_17 10803
+Runner 4_18 10091
+Runner 4_19 10983
+Runner 4_20 13223
+Runner 4_21 7584
+Runner 4_22 16433
+Runner 4_23 3468
+Runner 4_24 3223
+Timestamp 1544433098000
+RequestsNumber 25
+Failures_perc 0.0
+All_ms 17864
+min_ms 3223
+max_ms 17235
+avg_ms 10378.28

@@ -1,0 +1,17 @@
+Runner 1_0 2020
+Runner 1_1 1855
+Runner 1_2 2368
+Runner 1_3 1852
+Runner 1_4 2349
+Runner 1_5 1900
+Runner 1_6 2362
+Runner 1_7 2358
+Runner 1_8 2362
+Runner 1_9 2158
+Timestamp 1543914833896
+RequestsNumber 10
+Failures_perc 0.0
+All_ms 2368
+min_ms 1852
+max_ms 2368
+avg_ms 2158.4

@@ -1,0 +1,37 @@
+Runner 5_0 2169
+Runner 5_1 3924
+Runner 5_2 2936
+Runner 5_3 2019
+Runner 5_4 2525
+Runner 5_5 1271
+Runner 5_6 1262
+Runner 5_7 3952
+Runner 5_8 1209
+Runner 5_9 3573
+Runner 5_10 2929
+Runner 5_11 1549
+Runner 5_12 3310
+Runner 5_13 2697
+Runner 5_14 2682
+Runner 5_15 1693
+Runner 5_16 2647
+Runner 5_17 1800
+Runner 5_18 2010
+Runner 5_19 1578
+Runner 5_20 3229
+Runner 5_21 1701
+Runner 5_22 3272
+Runner 5_23 2794
+Runner 5_24 1122
+Runner 5_25 2043
+Runner 5_26 2053
+Runner 5_27 3639
+Runner 5_28 2649
+Runner 5_29 1432
+Timestamp 1544438253409
+RequestsNumber 30
+Failures_perc 0.0
+All_ms 4528
+min_ms 1122
+max_ms 3952
+avg_ms 2388.9666666666667

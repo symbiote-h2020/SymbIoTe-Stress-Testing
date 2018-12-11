@@ -1,0 +1,22 @@
+Runner 2_0 3080
+Runner 2_1 3408
+Runner 2_2 3541
+Runner 2_3 3304
+Runner 2_4 3644
+Runner 2_5 13484
+Runner 2_6 9154
+Runner 2_7 10681
+Runner 2_8 13786
+Runner 2_9 17693
+Runner 2_10 13191
+Runner 2_11 8645
+Runner 2_12 12984
+Runner 2_13 13218
+Runner 2_14 18176
+Timestamp 1544192146360
+RequestsNumber 15
+Failures_perc 0.0
+All_ms 18184
+min_ms 3080
+max_ms 18176
+avg_ms 9865.933333333332

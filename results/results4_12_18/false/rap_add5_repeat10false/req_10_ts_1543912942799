@@ -1,0 +1,17 @@
+Runner 1_0 5134
+Runner 1_1 5249
+Runner 1_2 5496
+Runner 1_3 5277
+Runner 1_4 5602
+Runner 1_5 5526
+Runner 1_6 5559
+Runner 1_7 5540
+Runner 1_8 5503
+Runner 1_9 5425
+Timestamp 1543912942800
+RequestsNumber 10
+Failures_perc 0.0
+All_ms 5603
+min_ms 5134
+max_ms 5602
+avg_ms 5431.1

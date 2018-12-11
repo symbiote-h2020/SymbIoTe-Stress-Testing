@@ -1,0 +1,17 @@
+Runner 1_0 1662
+Runner 1_1 2153
+Runner 1_2 1742
+Runner 1_3 1820
+Runner 1_4 2166
+Runner 1_5 726
+Runner 1_6 1709
+Runner 1_7 1859
+Runner 1_8 1732
+Runner 1_9 1692
+Timestamp 1544437720221
+RequestsNumber 10
+Failures_perc 0.0
+All_ms 2753
+min_ms 726
+max_ms 2166
+avg_ms 1726.1

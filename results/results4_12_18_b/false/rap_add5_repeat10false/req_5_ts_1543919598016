@@ -1,0 +1,12 @@
+Runner 0_0 989
+Runner 0_1 1044
+Runner 0_2 1044
+Runner 0_3 1039
+Runner 0_4 881
+Timestamp 1543919598017
+RequestsNumber 5
+Failures_perc 0.0
+All_ms 1044
+min_ms 881
+max_ms 1044
+avg_ms 999.4

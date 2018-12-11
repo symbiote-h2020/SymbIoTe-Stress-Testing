@@ -1,0 +1,57 @@
+Runner 9_0 3999
+Runner 9_1 2950
+Runner 9_2 4233
+Runner 9_3 3116
+Runner 9_4 1989
+Runner 9_5 1956
+Runner 9_6 1893
+Runner 9_7 3392
+Runner 9_8 2192
+Runner 9_9 2992
+Runner 9_10 3027
+Runner 9_11 2163
+Runner 9_12 4263
+Runner 9_13 2486
+Runner 9_14 4576
+Runner 9_15 3934
+Runner 9_16 4234
+Runner 9_17 2718
+Runner 9_18 2008
+Runner 9_19 2113
+Runner 9_20 2614
+Runner 9_21 3721
+Runner 9_22 2779
+Runner 9_23 3909
+Runner 9_24 3403
+Runner 9_25 2133
+Runner 9_26 2105
+Runner 9_27 2466
+Runner 9_28 3708
+Runner 9_29 2219
+Runner 9_30 2518
+Runner 9_31 3202
+Runner 9_32 3063
+Runner 9_33 2187
+Runner 9_34 3932
+Runner 9_35 2404
+Runner 9_36 2461
+Runner 9_37 4040
+Runner 9_38 2080
+Runner 9_39 3360
+Runner 9_40 3102
+Runner 9_41 -643
+Runner 9_42 2746
+Runner 9_43 3682
+Runner 9_44 2719
+Runner 9_45 3268
+Runner 9_46 3940
+Runner 9_47 3142
+Runner 9_48 3574
+Runner 9_49 3154
+Timestamp 1544436941624
+RequestsNumber 50
+Failures_perc 2.0
+All_ms 5244
+min_ms 1893
+max_ms 4576
+avg_ms 3017.6530612244896

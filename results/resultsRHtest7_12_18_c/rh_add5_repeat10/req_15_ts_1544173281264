@@ -1,0 +1,22 @@
+[Runner 2_0] 598 ms 
+[Runner 2_1] 806 ms 
+[Runner 2_2] 923 ms 
+[Runner 2_3] 747 ms 
+[Runner 2_4] 932 ms 
+[Runner 2_5] 1204 ms 
+[Runner 2_6] 719 ms 
+[Runner 2_7] 809 ms 
+[Runner 2_8] 1374 ms 
+[Runner 2_9] 1183 ms 
+[Runner 2_10] 1179 ms 
+[Runner 2_11] 649 ms 
+[Runner 2_12] 1093 ms 
+[Runner 2_13] 947 ms 
+[Runner 2_14] 1272 ms 
+Timestamp 1544173281265
+RequestsNumber 15
+Failures_perc 0.0
+All_ms 1855
+min_ms 598
+max_ms 1374
+avg_ms 962.3333333333334

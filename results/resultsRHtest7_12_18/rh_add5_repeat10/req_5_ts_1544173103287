@@ -1,0 +1,12 @@
+[Runner 0_0] 1017 ms 
+[Runner 0_1] 1124 ms 
+[Runner 0_2] 858 ms 
+[Runner 0_3] 576 ms 
+[Runner 0_4] 516 ms 
+Timestamp 1544173103287
+RequestsNumber 5
+Failures_perc 0.0
+All_ms 1200
+min_ms 516
+max_ms 1124
+avg_ms 818.2

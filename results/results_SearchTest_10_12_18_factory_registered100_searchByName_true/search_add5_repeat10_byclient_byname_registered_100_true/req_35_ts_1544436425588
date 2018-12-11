@@ -1,0 +1,42 @@
+Runner 6_0 2032
+Runner 6_1 2127
+Runner 6_2 2426
+Runner 6_3 2445
+Runner 6_4 2114
+Runner 6_5 1570
+Runner 6_6 1720
+Runner 6_7 2090
+Runner 6_8 1767
+Runner 6_9 1693
+Runner 6_10 2782
+Runner 6_11 1760
+Runner 6_12 1692
+Runner 6_13 1582
+Runner 6_14 2282
+Runner 6_15 3071
+Runner 6_16 2411
+Runner 6_17 2095
+Runner 6_18 2425
+Runner 6_19 2769
+Runner 6_20 2763
+Runner 6_21 3367
+Runner 6_22 3393
+Runner 6_23 2467
+Runner 6_24 3123
+Runner 6_25 1737
+Runner 6_26 2825
+Runner 6_27 2576
+Runner 6_28 3076
+Runner 6_29 3100
+Runner 6_30 1719
+Runner 6_31 3389
+Runner 6_32 1715
+Runner 6_33 3050
+Runner 6_34 2685
+Timestamp 1544436425588
+RequestsNumber 35
+Failures_perc 0.0
+All_ms 4065
+min_ms 1570
+max_ms 3393
+avg_ms 2395.3714285714286

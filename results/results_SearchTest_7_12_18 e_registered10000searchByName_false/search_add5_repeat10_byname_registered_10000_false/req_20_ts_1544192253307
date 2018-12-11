@@ -1,0 +1,27 @@
+Runner 3_0 10549
+Runner 3_1 10850
+Runner 3_2 10563
+Runner 3_3 13540
+Runner 3_4 10853
+Runner 3_5 7732
+Runner 3_6 10449
+Runner 3_7 7455
+Runner 3_8 13826
+Runner 3_9 4348
+Runner 3_10 14003
+Runner 3_11 4487
+Runner 3_12 4377
+Runner 3_13 4490
+Runner 3_14 4260
+Runner 3_15 7279
+Runner 3_16 13897
+Runner 3_17 7471
+Runner 3_18 7568
+Runner 3_19 14187
+Timestamp 1544192253308
+RequestsNumber 20
+Failures_perc 0.0
+All_ms 14192
+min_ms 4260
+max_ms 14187
+avg_ms 9109.2

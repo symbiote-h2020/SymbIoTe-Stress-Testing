@@ -1,0 +1,17 @@
+Runner 1_0 2018
+Runner 1_1 2080
+Runner 1_2 2146
+Runner 1_3 1619
+Runner 1_4 2005
+Runner 1_5 2010
+Runner 1_6 2346
+Runner 1_7 2092
+Runner 1_8 2141
+Runner 1_9 2092
+Timestamp 1543914814954
+RequestsNumber 10
+Failures_perc 0.0
+All_ms 2349
+min_ms 1619
+max_ms 2346
+avg_ms 2054.9

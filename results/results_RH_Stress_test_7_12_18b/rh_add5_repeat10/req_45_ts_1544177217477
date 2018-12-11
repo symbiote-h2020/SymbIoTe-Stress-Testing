@@ -1,0 +1,52 @@
+[Runner 8_0] 2870 ms 
+[Runner 8_1] 2226 ms 
+[Runner 8_2] 3715 ms 
+[Runner 8_3] 358 ms 
+[Runner 8_4] 308 ms 
+[Runner 8_5] 3045 ms 
+[Runner 8_6] 3824 ms 
+[Runner 8_7] 4060 ms 
+[Runner 8_8] 2280 ms 
+[Runner 8_9] 4625 ms 
+[Runner 8_10] 3177 ms 
+[Runner 8_11] 3314 ms 
+[Runner 8_12] 4538 ms 
+[Runner 8_13] 2337 ms 
+[Runner 8_14] 2268 ms 
+[Runner 8_15] 2392 ms 
+[Runner 8_16] 1696 ms 
+[Runner 8_17] 3784 ms 
+[Runner 8_18] 3464 ms 
+[Runner 8_19] 2729 ms 
+[Runner 8_20] 3727 ms 
+[Runner 8_21] 2112 ms 
+[Runner 8_22] 4182 ms 
+[Runner 8_23] 2689 ms 
+[Runner 8_24] 3380 ms 
+[Runner 8_25] 4455 ms 
+[Runner 8_26] 4129 ms 
+[Runner 8_27] 3609 ms 
+[Runner 8_28] 2596 ms 
+[Runner 8_29] 2248 ms 
+[Runner 8_30] 2346 ms 
+[Runner 8_31] 2562 ms 
+[Runner 8_32] 2143 ms 
+[Runner 8_33] 2224 ms 
+[Runner 8_34] 3596 ms 
+[Runner 8_35] 3465 ms 
+[Runner 8_36] 2858 ms 
+[Runner 8_37] 3949 ms 
+[Runner 8_38] 3275 ms 
+[Runner 8_39] 3543 ms 
+[Runner 8_40] 2990 ms 
+[Runner 8_41] 2005 ms 
+[Runner 8_42] 2245 ms 
+[Runner 8_43] 4117 ms 
+[Runner 8_44] 2488 ms 
+Timestamp 1544177217479
+RequestsNumber 45
+Failures_perc 0.0
+All_ms 5159
+min_ms 308
+max_ms 4625
+avg_ms 2976.511111111111

@@ -1,0 +1,12 @@
+Runner 0_0 1923
+Runner 0_1 1932
+Runner 0_2 1950
+Runner 0_3 1932
+Runner 0_4 1915
+Timestamp 1543914750180
+RequestsNumber 5
+Failures_perc 0.0
+All_ms 1951
+min_ms 1915
+max_ms 1950
+avg_ms 1930.4

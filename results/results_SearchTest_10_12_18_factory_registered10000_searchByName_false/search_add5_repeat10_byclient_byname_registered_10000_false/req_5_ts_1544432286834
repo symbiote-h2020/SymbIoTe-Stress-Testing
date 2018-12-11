@@ -1,0 +1,12 @@
+Runner 0_0 2046
+Runner 0_1 1974
+Runner 0_2 2039
+Runner 0_3 2021
+Runner 0_4 1939
+Timestamp 1544432286834
+RequestsNumber 5
+Failures_perc 0.0
+All_ms 2410
+min_ms 1939
+max_ms 2046
+avg_ms 2003.8
