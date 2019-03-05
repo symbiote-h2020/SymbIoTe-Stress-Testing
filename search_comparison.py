@@ -8,28 +8,30 @@ import seaborn as sns
 
 def main():
     matplotlib.rcParams['text.usetex'] = True
-    sns.set(font_scale=1.7, style="whitegrid")
+    sns.set(font_scale=4, style="whitegrid")
     base_dir = "results/"
     x_label = "Number of Concurrent Requests"
-    y_label = "Median Response Times (s)"
-    title = "Search Comparison"
+    y_label = "Median Response Time (s)"
+    title = "Search Response Time Stress Test"
     base_filename = "search_comparison"
-    y_max = 30.0000000000001
+    file_format = "eps"
+    y_max = 30
     y_tick = 5
     x_min = 5
     x_max = 50
     x_tick = 5
-    linewidth = 4
+    linewidth = 6
     reqs = np.arange(x_min, x_max + 1, x_tick)
     times = []
 
-    rap_files = [("100 resource, no auth", "results_SearchTest_10_12_18_factory_registered100_searchByName_false/search_add5_repeat10_byclient_byname_registered_100_false"),
-                 ("1000 resource, no auth", "results_SearchTest_10_12_18_factory_registered1000_searchByName_false/search_add5_repeat10_byclient_byname_registered_1000_false"),
-                 ("10000 resource, no auth", "results_SearchTest_10_12_18_factory_registered10000_searchByName_false/search_add5_repeat10_byclient_byname_registered_10000_false"),
-                 ("100 resource, with auth", "results_SearchTest_10_12_18_factory_registered100_searchByName_true/search_add5_repeat10_byclient_byname_registered_100_true"),
-                 ("1000 resource, with auth", "results_SearchTest_10_12_18_factory_registered1000_searchByName_true/search_add5_repeat10_byclient_byname_registered_1000_true"),
-                 ("10000 resource, with auth", "results_SearchTest_10_12_18_factory_registered10000_searchByName_true/search_add5_repeat10_byclient_byname_registered_10000_true")
-                 ]
+    rap_files = [
+        ("100 resources, without server authentication", "results_SearchTest_10_12_18_factory_registered100_searchByName_false/search_add5_repeat10_byclient_byname_registered_100_false"),
+        ("1000 resources, without server authentication", "results_SearchTest_10_12_18_factory_registered1000_searchByName_false/search_add5_repeat10_byclient_byname_registered_1000_false"),
+        ("10000 resources, without server authentication", "results_SearchTest_10_12_18_factory_registered10000_searchByName_false/search_add5_repeat10_byclient_byname_registered_10000_false"),
+        ("100 resources, with server authentication", "results_SearchTest_10_12_18_factory_registered100_searchByName_true/search_add5_repeat10_byclient_byname_registered_100_true"),
+        ("1000 resources, with server authentication", "results_SearchTest_10_12_18_factory_registered1000_searchByName_true/search_add5_repeat10_byclient_byname_registered_1000_true"),
+        ("10000 resources, with server authentication", "results_SearchTest_10_12_18_factory_registered10000_searchByName_true/search_add5_repeat10_byclient_byname_registered_10000_true")
+    ]
 
     for rap_file in rap_files:
         folder = base_dir + rap_file[1]
@@ -52,7 +54,7 @@ def main():
 
                 with open(folder + "/" + f_name, 'rb') as f:
                     for line in f.readlines()[:num_req]:
-                        times_experiment[num_req].append(int(line.split(' ')[2]) / 1000.0)
+                        times_experiment[num_req].append(int(line.split()[2]) / 1000.0)
 
         medians = []
         for key in reqs:
@@ -60,37 +62,35 @@ def main():
 
         times.append(medians)
 
-    print times
-
     font = {
         'family': 'Liberation Sans',
         'weight': 'normal'
     }
 
     plt.rc('font', **font)
-    plt.yticks(np.arange(0, y_max, y_tick))
-    plt.xticks(np.arange(0, x_max, x_tick))
+    plt.yticks(np.arange(0, y_max + 1, y_tick))
+    plt.xticks(np.arange(0, x_max + 6, x_tick))
     plt.xlabel(x_label)
     plt.ylabel(y_label)
 
     plt.title(title)
     plt.ylim(ymax=y_max)
-    plt.xlim(xmax=x_max)
+    plt.xlim(xmax=x_max + 5)
 
     for i in np.arange(0, len(times), 1):
-        plt.plot(reqs, times[i], "-", lw=linewidth, label=rap_files[i][0])
+        plt.plot(reqs, times[i], "-", lw=linewidth, label=rap_files[i][0], marker='o')
 
     plt.legend(['True Positive Ratio'], loc='lower right')
-    plt.legend(loc='upper left', prop={'size': 22})
+    plt.legend(loc='upper left', prop={'size': 38})
 
     # plt.grid(axis='y')
     # plt.grid(axis='x')
     fig = plt.gcf()
     # fig.tight_layout(pad=0.7 * 22 / font_size)
-    fig.tight_layout()
-    fig.set_size_inches(10, 7)
+    # fig.tight_layout()
+    fig.set_size_inches(20, 14)
     # plt.show()
-    plt.savefig("pdf/" + base_filename + ".pdf")
+    plt.savefig(file_format + "/" + base_filename + "." + file_format)
     #
 
 

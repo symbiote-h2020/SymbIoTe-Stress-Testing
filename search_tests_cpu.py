@@ -1,0 +1,83 @@
+import matplotlib
+import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
+
+
+def main():
+    matplotlib.rcParams['text.usetex'] = True
+    sns.set(font_scale=4, style="whitegrid")
+    x_label = "Number of Concurrent Requests"
+    y_label = "CPU Utilization (\%)"
+    title = "Search CPU Utilization Stress Test"
+
+    base_dir = "results_resource_usage/"
+    base_filename = "searchtests_cpu_search"
+    file_format = "eps"
+    y_max = 1200
+    y_min = 0
+    y_tick = None
+    x_min = 5
+    x_max = 50
+    x_tick = 5
+    linewidth = 6
+    reqs = np.arange(x_min, x_max + 1, x_tick)
+
+    files = [
+        ("100 resources - without server authentication", base_dir + "search_cpu_searchtests_false_100"),
+        ("1000 resources - without server authentication", base_dir + "search_cpu_searchtests_false_1000"),
+        ("10000 resources - without server authentication", base_dir + "search_cpu_searchtests_false_10000"),
+        ("100 resources - with server authentication", base_dir + "search_cpu_searchtests_true_100"),
+        ("1000 resources - with server authentication", base_dir + "search_cpu_searchtests_true_1000"),
+        ("10000 resources - with server authentication", base_dir + "search_cpu_searchtests_true_10000")
+    ]
+
+    font = {
+        'family': 'Liberation Sans',
+        'weight': 'normal'
+    }
+
+    plt.ylim(ymax=y_max)
+    plt.ylim(ymin=0)
+    plt.rc('font', **font)
+    # plt.yticks(np.arange(0, y_max, y_tick))
+    plt.xticks(np.arange(0, x_max + 10, x_tick))
+    plt.xlabel(x_label)
+    plt.ylabel(y_label)
+
+    plt.title(title)
+    plt.xlim(xmin=0)
+    plt.xlim(xmax=x_max + 5)
+
+    mem_max = 0
+    for file in files:
+        f_name = file[1]
+
+        cpu_usage = []
+        with open(f_name, 'r') as f:
+            for line in f.readlines():
+                r_x = line.split("\t")[0]
+                cpu = line.split("\t")[1]
+                cpu_usage.append(float(cpu))
+
+        plt.plot(reqs, cpu_usage, marker='o', label=file[0], linewidth=linewidth)
+
+    plt.ylim(ymax=y_max)
+    plt.legend(['True Positive Ratio'])
+    plt.legend(loc='upper left', prop={'size': 38})
+    #  plt.legend(fancybox=True, framealpha=0.3, bbox_to_anchor=(0, 0))
+
+    plt.legend(framealpha=0.2)
+    # plt.grid(axis='y')
+    # plt.grid(axis='x')
+    fig = plt.gcf()
+    # fig.tight_layout(pad=0.7 * 22 / font_size)
+    # fig.tight_layout()
+    fig.set_size_inches(20, 14)
+    # plt.show()
+    plt.savefig(file_format + "/" + base_filename + "." + file_format)
+    #
+
+
+if __name__ == "__main__":
+    main()

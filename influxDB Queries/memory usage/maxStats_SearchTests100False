@@ -1,0 +1,46 @@
+
+
+search true factory 100 (results_factory_registered100_true)
+
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544435855092000000-50s AND time<1544435931750000000-50s and container_name=~/symbiote-coreinterface/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544435870214000000+50s AND time<1544436013298000000-1m and container_name=~/symbiote-coreinterface/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544435950374000000+50s AND time<1544436125509000000-50s and container_name=~/symbiote-coreinterface/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436063443000000+50s AND time<1544436234656000000-50s and container_name=~/symbiote-coreinterface/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436172190000000+50s AND time<1544436331992000000-50s and container_name=~/symbiote-coreinterface/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436269243000000+50s AND time<1544436425588000000-50s and container_name=~/symbiote-coreinterface/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436362527000000+50s AND time<1544436524902000000-50s and container_name=~/symbiote-coreinterface/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436460749000000+50s AND time<1544436647311000000-50s and container_name=~/symbiote-coreinterface/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436583591000000+50s AND time<1544436856010000000-50s and container_name=~/symbiote-coreinterface/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436763519000000+50s AND time<1544436946869000000+50s and container_name=~/symbiote-coreinterface/);
+
+
+
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544435855092000000-50s AND time<1544435931750000000-50s and container_name=~/symbiote-search/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544435870214000000+50s AND time<1544436013298000000-1m and container_name=~/symbiote-search/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544435950374000000+50s AND time<1544436125509000000-50s and container_name=~/symbiote-search/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436063443000000+50s AND time<1544436234656000000-50s and container_name=~/symbiote-search/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436172190000000+50s AND time<1544436331992000000-50s and container_name=~/symbiote-search/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436269243000000+50s AND time<1544436425588000000-50s and container_name=~/symbiote-search/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436362527000000+50s AND time<1544436524902000000-50s and container_name=~/symbiote-search/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436460749000000+50s AND time<1544436647311000000-50s and container_name=~/symbiote-search/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436583591000000+50s AND time<1544436856010000000-50s and container_name=~/symbiote-search/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436763519000000+50s AND time<1544436946869000000+50s and container_name=~/symbiote-search/);
+
+
+
+
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544435855092000000-50s AND time<1544435931750000000-50s and container_name=~/symbiote-aam/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544435870214000000+50s AND time<1544436013298000000-1m and container_name=~/symbiote-aam/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544435950374000000+50s AND time<1544436125509000000-50s and container_name=~/symbiote-aam/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436063443000000+50s AND time<1544436234656000000-50s and container_name=~/symbiote-aam/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436172190000000+50s AND time<1544436331992000000-50s and container_name=~/symbiote-aam/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436269243000000+50s AND time<1544436425588000000-50s and container_name=~/symbiote-aam/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436362527000000+50s AND time<1544436524902000000-50s and container_name=~/symbiote-aam/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436460749000000+50s AND time<1544436647311000000-50s and container_name=~/symbiote-aam/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436583591000000+50s AND time<1544436856010000000-50s and container_name=~/symbiote-aam/);
+SELECT max(der) FROM (SELECT derivative(value,1s)/10000000 as der FROM cpu_usage_total WHERE time>1544436763519000000+50s AND time<1544436946869000000+50s and container_name=~/symbiote-aam/);
+
+
+
+
+

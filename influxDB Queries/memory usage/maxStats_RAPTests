@@ -1,0 +1,84 @@
+
+
+rap false (results4_12_18b)
+
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919592828000000-50s AND time<1543919662825000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919601909000000+50s AND time<1543919770499000000-1m and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919708818000000+50s AND time<1543919851159000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919788995000000+50s AND time<1543919950617000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919888043000000+50s AND time<1543920046087000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919982931000000+50s AND time<1543920188295000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543920123675000000+50s AND time<1543920325332000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543920260451000000+50s AND time<1543920522010000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543920456830000000+50s AND time<1543920652514000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543920586282000000+50s AND time<1543920747981000000+50s and container_name=~/symbiote-aam/;
+
+
+
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919592828000000-50s AND time<1543919662825000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919601909000000+50s AND time<1543919770499000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919708818000000+50s AND time<1543919851159000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919788995000000+50s AND time<1543919950617000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919888043000000+50s AND time<1543920046087000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919982931000000+50s AND time<1543920188295000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543920123675000000+50s AND time<1543920325332000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543920260451000000+50s AND time<1543920522010000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543920456830000000+50s AND time<1543920652514000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543920586282000000+50s AND time<1543920747981000000+50s and container_name=~/symbiote-rap/;
+
+
+
+
+
+
+
+
+rap true (results4_12_18b)
+
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918181936000000-50s AND time<1543918252555000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918191572000000+50s AND time<1543918328527000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918266764000000+50s AND time<1543918440991000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918378891000000+50s AND time<1543918530858000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918467760000000+50s AND time<1543918632553000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918568823000000+50s AND time<1543918844089000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918777985000000+50s AND time<1543918956936000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918891403000000+50s AND time<1543919100557000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919034190000000+50s AND time<1543919256288000000-50s and container_name=~/symbiote-aam/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919188509000000+50s AND time<1543919351601000000+50s and container_name=~/symbiote-aam/;
+
+
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918181936000000-50s AND time<1543918252555000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918191572000000+50s AND time<1543918328527000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918266764000000+50s AND time<1543918440991000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918378891000000+50s AND time<1543918530858000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918467760000000+50s AND time<1543918632553000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918568823000000+50s AND time<1543918844089000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918777985000000+50s AND time<1543918956936000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543918891403000000+50s AND time<1543919100557000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919034190000000+50s AND time<1543919256288000000-50s and container_name=~/symbiote-rap/;
+SELECT max(value)/1048576 FROM memory_usage WHERE time>1543919188509000000+50s AND time<1543919351601000000+50s and container_name=~/symbiote-rap/;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
